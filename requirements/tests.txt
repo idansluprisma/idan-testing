@@ -14,5 +14,5 @@ pluggy==1.4.0
     # via pytest
 pytest==8.1.1
     # via -r tests.in
-python-dotenv==1.0.1
+python-dotenv==1.2.2
     # via -r tests.in
